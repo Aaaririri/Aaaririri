@@ -1,4 +1,4 @@
--  ✨Hi, I’m Ariadne Vieira✨
+-  ✨Hi✨
 -  I’m interested in anime, games and music ✔
 -  I’m currently learning Python and JavaScript ✔
 -  I am looking to learn more about programming languages and new technologies ✔
