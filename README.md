@@ -1,5 +1,5 @@
 -  ✨Hi✨
--  I’m interested in anime, games and music ✔
+-  I’m interested in music, games and anime ✔
 -  I’m currently learning Python and JavaScript ✔
 -  I am looking to learn more about programming languages and new technologies ✔
 -  You can find me on my email: ariadne.p.s.vieira@gmail.com
