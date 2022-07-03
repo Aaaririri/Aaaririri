@@ -9,7 +9,7 @@
  let Ariadne = {
    ...ECO-UNIFEI, 
    hobbies: ["listen to music", "anime", "read", "watch random movies"],
-   looking-for: "learning a bit more everyday.",
+   lookingFor: "learning a bit more everyday.",
    languages: ["Java", "Python", "JavaScript", "C", "C++"],
 };
 ```
