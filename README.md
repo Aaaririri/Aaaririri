@@ -14,8 +14,9 @@
 };
 ```
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=0c310c&text_color=fff&icon_color=fff&bg_color=228b22&cache_seconds=2300">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=fff&text_color=0c310c&icon_color=fff&bg_color=228b22&cache_seconds=2300">
 
+<hr>
 <hr>
 <hr>
 <hr>
