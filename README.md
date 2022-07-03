@@ -8,9 +8,9 @@
 ```js
  let Ariadne = {
    ...ECO-UNIFEI, 
-   hobbies: ["listen to music", "anime", "read", "watch random movies"]
-   looking-for: "learning a bit more everyday."
-   languages: ["Java", "Python", "JavaScript", "C", "C++"]
+   hobbies: ["listen to music", "anime", "read", "watch random movies"],
+   looking-for: "learning a bit more everyday.",
+   languages: ["Java", "Python", "JavaScript", "C", "C++"],
 };
 ```
 
