@@ -3,7 +3,8 @@
     <p>My name is Ariadne Vieira. I'm a Computer Engineering Student at the Federal University of Itajubá (UNIFEI).</p>
 
 <h3>About me:</h3> 
-<img align="right" width="300" margin="10" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
+<div>
+<img align="right" width="280" margin="40" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
 
 ```js
  let Ariadne = {
@@ -13,18 +14,20 @@
    languages: ["Java", "Python", "JavaScript", "C", "C++"],
 };
 ```
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=fff&text_color=0c310c&icon_color=fff&bg_color=228b22&cache_seconds=2300">
-
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-
+</div>
+<div>
+    <img align='left' margin="20" src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=fff&text_color=0c310c&icon_color=fff&bg_color=228b22&cache_seconds=2300">
+        <div align='right' margin="20">
+            <hr>
+            <hr>
+            <hr>
+            <hr>
+            <hr>
+            <hr>
+            <hr>
+            <hr>
+        </div>
+</div>
 <h3>Where find me:</h3> 
 
 [![Linkedin: Ariadne Vieira](https://img.shields.io/badge/-Ariadne-0c310c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariadne-vieira-5b0375201/)](LINK-DO-SEU-LINKEDIN)
