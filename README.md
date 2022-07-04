@@ -4,7 +4,7 @@
 
 <h3>About me:</h3> 
 <div>
-<img align="right" width="280" margin="40" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
+<img width="280" margin="40" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
 
 ```js
  let Ariadne = {
