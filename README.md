@@ -4,7 +4,8 @@
 
 <h3>About me:</h3> 
 <div>
-<img width="280" margin="40" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
+
+<img align='left' width="280" margin="40" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
 
 ```js
  let Ariadne = {
@@ -14,10 +15,11 @@
    languages: ["Java", "Python", "JavaScript", "C", "C++"],
 };
 ```
+    
 </div>
 <div>
-    <img align='left' margin="20" src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=fff&text_color=0c310c&icon_color=fff&bg_color=228b22&cache_seconds=2300">
-        <div align='right' margin="20">
+    <img align='right' margin="20" src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=fff&text_color=0c310c&icon_color=fff&bg_color=228b22&cache_seconds=2300">
+        <div align='left' margin="20">
             <hr>
             <hr>
             <hr>
