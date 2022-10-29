@@ -12,7 +12,7 @@
    ...ECO-UNIFEI, 
    hobbies: ["listen to music", "anime", "read", "watch random movies"],
    lookingFor: "learning a bit more everyday.",
-   languages: ["java", "python", "javascript", "typescript" "C", "C++"],
+   languages: ["java", "python", "javascript", "typescript", "C", "C++"],
 };
 ```
     
