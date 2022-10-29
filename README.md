@@ -7,12 +7,12 @@
 
 <img align='left' width="280" margin="40" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
 
-```js
+```ts
  let Ariadne = {
    ...ECO-UNIFEI, 
    hobbies: ["listen to music", "anime", "read", "watch random movies"],
    lookingFor: "learning a bit more everyday.",
-   languages: ["Java", "Python", "JavaScript", "C", "C++"],
+   languages: ["java", "python", "javascript", "typescript" "C", "C++"],
 };
 ```
     
