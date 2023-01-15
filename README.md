@@ -15,7 +15,17 @@
    languages: ["java", "python", "javascript", "typescript", "C", "C++"],
 };
 ```
-    
+</hr> 
+</hr> 
+</hr> 
+</hr> 
+</hr> 
+</hr> 
+</hr> 
+</hr> 
+</hr> 
+</hr>
+
 </div>
 
 ![Snake animation](https://github.com/Aaaririri/Aaaririri/blob/output/github-contribution-grid-snake.svg)
