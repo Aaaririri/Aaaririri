@@ -17,18 +17,10 @@
 ```
     
 </div>
-<div>
-    <img align='right' margin="20" src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=fff&text_color=0c310c&icon_color=fff&bg_color=228b22&cache_seconds=2300">
-        <div align='left' margin="20">
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-            <hr>
-        </div>
+
+![Snake animation](https://github.com/Aaaririri/Aaaririri/blob/output/github-contribution-grid-snake.svg)
+
+
 </div>
 <h3>Where find me:</h3> 
 
