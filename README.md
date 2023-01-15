@@ -5,7 +5,7 @@
 <h3>About me:</h3> 
 <div>
 
-<img align='left' width="280" margin="40" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
+<img align='left' width="40%" margin="20" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
 
 ```ts
  let Ariadne = {
@@ -15,7 +15,7 @@
    languages: ["java", "python", "javascript", "typescript", "C", "C++"],
 };
 ```
-<img align='right' margin="20" src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=fff&text_color=0c310c&icon_color=fff&bg_color=228b22&cache_seconds=2300">
+<img width="56%" align='right' src="https://github-readme-stats.vercel.app/api?username=aaaririri&show_icons=true&title_color=fff&text_color=0c310c&icon_color=fff&bg_color=228b22&cache_seconds=2300">
 </div>
 
 ![Snake animation](https://github.com/Aaaririri/Aaaririri/blob/output/github-contribution-grid-snake.svg)
