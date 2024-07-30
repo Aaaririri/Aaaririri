@@ -25,7 +25,7 @@
 <h3>Where find me:</h3> 
 
 [![Linkedin: Ariadne Vieira](https://img.shields.io/badge/-Ariadne-0c310c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariadne-vieira-dev/)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-ariadne.p.s.vieira@gmail.com-228b22?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ariadne.vieira.dev@gmail.com)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-ariadne.vieira.dev@gmail.com-228b22?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ariadne.vieira.dev@gmail.com)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/aaaririri?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 <!---
